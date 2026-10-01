@@ -1,0 +1,6 @@
+{
+  "name": "SI-OPS SD - Otomasi Input Berkas Siswa & OCR Dapodik",
+  "description": "Aplikasi operator Sekolah Dasar untuk otomatisasi input Kartu Keluarga (KK), Akta Kelahiran, dan Rapor Siswa dengan integrasi OCR cerdas dan ekspor laporan bulanan Dapodik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
